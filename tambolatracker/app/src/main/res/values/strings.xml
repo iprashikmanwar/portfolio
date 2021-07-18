@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tambola Tracker</string>
+    <string name="btnTambolaTracker">Tambola Tracker</string>
+    <string name="Titletasks">Tasks : </string>
+    <string name="btnInsert">Insert File</string>
+    <string name="btnAdd_additional">Add Additional data</string>
+    <string name="titleDesc">Provide details below : </string>
+    <string name="txtHintName">Name</string>
+    <string name="btnDelete">Wipe existing data</string>
+    <string name="btnView">View Data</string>
+    <string name="btn_add_addn">Add</string>
+    <string name="btnGo">GO</string>
+    <string name="col1">Name</string>
+    <string name="col2">Remaining</string>
+    <string name="col3">Length</string>
+    <string name="RmvElement">Input Letter  : </string>
+    <string name="btnRemove">Remove</string>
+    <string name="descbtnReset">ResetGame</string>
+</resources>
